@@ -7,7 +7,7 @@ La asignatura se dividie en dos partes: robótica móvil y manipuladores. La pri
 **Prácticas Robótica Móvil**
 
 1. [Modelado de un vehículo](https://github.com/pablobfm2/Ampliacion_de_Robotica/tree/main/Rob%C3%B3tica%20M%C3%B3vil/1.%20Modelado%20de%20un%20veh%C3%ADculo)
-2. [Seguimiento de caminos]()
+2. [Seguimiento de caminos](https://github.com/pablobfm2/Ampliacion_de_Robotica/tree/main/Rob%C3%B3tica%20M%C3%B3vil/2.%20Seguimiento%20Caminos)
 3. [SLAM basado en EKF]()
 4. [Evitar obstáculos con campos potenciales]()
 5. [Planificación de Caminos: Dijkstra]()
