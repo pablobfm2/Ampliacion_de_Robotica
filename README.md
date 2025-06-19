@@ -17,4 +17,4 @@ La asignatura se dividie en dos partes: robótica móvil y manipuladores. La pri
 ---
 **Prácticas Manipuladores**
 
-8. [TBD]()
+8. [Planificación Trayectoria Cartesiana](https://github.com/pablobfm2/Ampliacion_de_Robotica/tree/main/Robotica_Manipuladores/8.%20Planificaci%C3%B3n%20Trayectoria%20Cartesiana)
